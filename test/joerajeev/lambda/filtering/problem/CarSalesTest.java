@@ -1,12 +1,13 @@
-package joerajeev.lambda.problem;
+package joerajeev.lambda.filtering.problem;
 
+import joerajeev.lambda.filtering.problem.CarSales;
 import joerajeev.lambda.util.TestUtil;
 
 import org.junit.Before;
 import org.junit.Test;
 
 /**
- * Test class that acts as the caller of the joerajeev.lambda.problem.CarSales application
+ * Test class that acts as the caller of the joerajeev.lambda.filtering.problem.CarSales application
  * No asserts as this is not meant to be a 'proper' JUnit test class 
  * 
  * @author Rajeev

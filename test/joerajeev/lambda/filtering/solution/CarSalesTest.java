@@ -1,6 +1,7 @@
-package joerajeev.lambda.solution.java8;
+package joerajeev.lambda.filtering.solution;
 
 import joerajeev.lambda.entities.Car.Transmission;
+import joerajeev.lambda.filtering.solution.CarSales;
 import joerajeev.lambda.util.TestUtil;
 
 import org.junit.Before;

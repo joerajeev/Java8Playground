@@ -1,4 +1,4 @@
-package joerajeev.lambda.solution.before;
+package joerajeev.pre.lambda.filtering.solution;
 
 import joerajeev.lambda.entities.Car;
 

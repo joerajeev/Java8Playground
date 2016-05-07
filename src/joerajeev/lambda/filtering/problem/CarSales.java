@@ -1,4 +1,4 @@
-package joerajeev.lambda.problem;
+package joerajeev.lambda.filtering.problem;
 
 import java.util.ArrayList;
 import java.util.List;
