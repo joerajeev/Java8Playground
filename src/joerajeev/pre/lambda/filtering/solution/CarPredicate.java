@@ -1,6 +1,6 @@
 package joerajeev.pre.lambda.filtering.solution;
 
-import joerajeev.lambda.entities.Car;
+import joerajeev.entities.Car;
 
 public interface CarPredicate {
 

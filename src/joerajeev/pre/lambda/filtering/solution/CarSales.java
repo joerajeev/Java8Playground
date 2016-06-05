@@ -3,11 +3,15 @@ package joerajeev.pre.lambda.filtering.solution;
 import java.util.ArrayList;
 import java.util.List;
 
-import joerajeev.lambda.entities.Car;
+import joerajeev.entities.Car;
 
 /**
- * Car sales application
- * Demonstrates the power of behaviour parameterization using functional interfaces
+ * Car sales application.
+ * Demonstrates the power of behaviour parameterization using functional interfaces.
+ * This pattern existed before Java 8. However the the value of Lambda expressions 
+ * can be seen by comparing the consumption of this API.
+ * @see joerajeev/pre/lambda/filtering/solution/CarSalesConsumer.java vs
+ * @see joerajeev/lambda/filtering/solution/CarSalesConsumer.java
  * 
  * @author Rajeev
  *

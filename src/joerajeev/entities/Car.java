@@ -1,4 +1,4 @@
-package joerajeev.lambda.entities;
+package joerajeev.entities;
 
 import java.math.BigDecimal;
 

@@ -4,8 +4,8 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-import joerajeev.lambda.entities.Car;
-import joerajeev.lambda.entities.Car.Transmission;
+import joerajeev.entities.Car;
+import joerajeev.entities.Car.Transmission;
 
 /**
  * 

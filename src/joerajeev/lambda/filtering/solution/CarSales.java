@@ -4,12 +4,15 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-import joerajeev.lambda.entities.Car;
+import joerajeev.entities.Car;
 
 /**
  * Car sales application
  * Demonstrates the power of behaviour parameterization using functional interfaces
- * Uses Java8 Predicate interface
+ * Uses Java8 Predicate interface.
+ * The value of Lambda expressions can be seen by comparing the consumption of this API.
+ * @see joerajeev/pre/lambda/filtering/solution/CarSalesConsumer.java vs
+ * @see joerajeev/lambda/filtering/solution/CarSalesConsumer.java
  * 
  * @author Rajeev
  *
