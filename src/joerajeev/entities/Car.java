@@ -23,11 +23,7 @@ public class Car {
 	private Transmission transmision;
 	private BigDecimal price;
 	
-	@Override
-	public String toString() {
-		return "Car [make=" + make + ", model=" + model + ", year=" + year
-				+ ", price=" + price + "]";
-	}
+
 	
 	public String getMake() {
 		return make;
@@ -76,6 +72,11 @@ public class Car {
 	}
 	public void setPrice(BigDecimal price) {
 		this.price = price;
+	}
+	@Override
+	public String toString() {
+		return "Car [make=" + make + ", model=" + model + ", type=" + type + ", year=" + year + ", kilometers="
+				+ kilometers + ", colour=" + colour + ", transmision=" + transmision + ", price=" + price + "]";
 	}
 	
 }
